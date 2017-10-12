@@ -63,5 +63,4 @@ publisher:
         github:
                 type: hyde.ext.publishers.dvcs.Git
                 path: ../mertloo.github.io
-                url: https://github.com/mertloo/mertloo.github.io.git
-
+                url: git@github.com:mertloo/mertloo.github.io.git
